@@ -108,38 +108,11 @@ web technologies, REST APIs, and application development practices.
 Showcased an AI-powered deepfake detection project involving Python,
 PyTorch, and OpenCV.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shravyasrao&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravyasrao&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=shravyasrao&theme=transparent&hide_border=true"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shravyasrao&theme=github-compact&hide_border=true"
   />
 </p>
 
